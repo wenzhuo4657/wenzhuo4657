@@ -1,16 +1,22 @@
-## Hi there 👋
+# About me
 
-<!--
-**wenzhuo4657/wenzhuo4657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一个闲散人员，无所事事却又忙碌无比是我的最佳代言。
 
-Here are some ideas to get you started:
+- 🎧 兴趣： 读书 📚、音乐 🎵、咖啡 ☕  
+  自我评价：这是很装逼的兴趣，不过我很享受这种装逼。  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧪 研究： 锻炼 🏋️、写作 ✍️、代码 💻  
+  自我评价： 有点难以坚持，不过生活总要有点奔头。  
+
+- 📬 联系我： wenzhuo4657@gmail.com  
+
+---
+
+🚧 正在 coding 的 project：
+。。。
+
+
+
+  
+
+
