@@ -18,7 +18,7 @@
 
 ### 🔥 今日活跃仓库
 
-- 📝 **[demo](https://github.com/wenzhuo4657/demo)**: 1 次提交
+- 📝 **[gradle-learning](https://github.com/wenzhuo4657/gradle-learning)**: 1 次提交
 
 
-*最后更新: 2025-09-13 08:21:49*
+*最后更新: 2025-09-14 08:25:22*
