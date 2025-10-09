@@ -11,12 +11,13 @@
 
 ## 📊 最近活动
 
-📈 **今日统计**: 63 个仓库，2 个活跃，共 4 次提交
+📈 **今日统计**: 64 个仓库，3 个活跃，共 6 次提交
 
 ### 🔥 今日活跃仓库
 
-- ✨ **[springTest](https://github.com/wenzhuo4657/springTest)**: 3 次提交
-- 📝 **[demo](https://github.com/wenzhuo4657/demo)**: 1 次提交
+- ✨ **[dailyWeb-back](https://github.com/wenzhuo4657/dailyWeb-back)**: 3 次提交
+- ✨ **[springTest](https://github.com/wenzhuo4657/springTest)**: 2 次提交
+- 📝 **[myScript](https://github.com/wenzhuo4657/myScript)**: 1 次提交
 
 
-*最后更新: 2025-10-08 08:23:36*
+*最后更新: 2025-10-09 08:23:32*
