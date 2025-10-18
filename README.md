@@ -1,5 +1,5 @@
 # About me
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=我是一个闲散人员，无所事事却又忙碌无比是我的最佳代言)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=我是一个闲散人员，无所事事却又忙碌无比是我的最佳代言!)
 
 - 🎧 兴趣： 读书 📚、音乐 🎵、咖啡 ☕  
 - 🧪 研究： 锻炼 🏋️、写作 ✍️、代码 💻  
