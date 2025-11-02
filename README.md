@@ -10,12 +10,12 @@
 
 ## 📊 最近活动
 
-📈 **今日统计**: 68 个仓库，2 个活跃，共 9 次提交
+📈 **今日统计**: 68 个仓库，2 个活跃，共 12 次提交
 
 ### 🔥 今日活跃仓库
 
-- 🚀 **[dailyNotes-Front](https://github.com/wenzhuo4657/dailyNotes-Front)**: 5 次提交
-- ✨ **[dailyNotes-back](https://github.com/wenzhuo4657/dailyNotes-back)**: 4 次提交
+- 🚀 **[dailyNotes-back](https://github.com/wenzhuo4657/dailyNotes-back)**: 9 次提交
+- ✨ **[dailyNotes-Front](https://github.com/wenzhuo4657/dailyNotes-Front)**: 3 次提交
 
 
-*最后更新: 2025-11-01 08:26:59*
+*最后更新: 2025-11-02 08:26:45*
