@@ -9,11 +9,13 @@
 
 ## 📊 最近活动
 
-📈 **今日统计**: 72 个仓库，1 个活跃，共 7 次提交
+📈 **今日统计**: 73 个仓库，3 个活跃，共 23 次提交
 
 ### 🔥 今日活跃仓库
 
-- 🚀 **[NotifierBot](https://github.com/wenzhuo4657/NotifierBot)**: 7 次提交
+- 🚀 **[TrendRadar](https://github.com/wenzhuo4657/TrendRadar)**: 16 次提交
+- 🚀 **[NotifierBot](https://github.com/wenzhuo4657/NotifierBot)**: 6 次提交
+- 📝 **[Maven-Archetype](https://github.com/wenzhuo4657/Maven-Archetype)**: 1 次提交
 
 
-*最后更新: 2025-11-28 08:25:01*
+*最后更新: 2025-11-29 08:24:56*
