@@ -9,11 +9,12 @@
 
 ## 📊 最近活动
 
-📈 **今日统计**: 73 个仓库，1 个活跃，共 1 次提交
+📈 **今日统计**: 73 个仓库，2 个活跃，共 7 次提交
 
 ### 🔥 今日活跃仓库
 
-- 📝 **[NotifierBot](https://github.com/wenzhuo4657/NotifierBot)**: 1 次提交
+- ✨ **[FluxFlow-back](https://github.com/wenzhuo4657/FluxFlow-back)**: 4 次提交
+- ✨ **[FluxFlow-Front](https://github.com/wenzhuo4657/FluxFlow-Front)**: 3 次提交
 
 
-*最后更新: 2025-12-10 08:27:08*
+*最后更新: 2025-12-11 08:26:53*
