@@ -9,11 +9,12 @@
 
 ## 📊 最近活动
 
-📈 **今日统计**: 74 个仓库，1 个活跃，共 1 次提交
+📈 **今日统计**: 74 个仓库，2 个活跃，共 8 次提交
 
 ### 🔥 今日活跃仓库
 
-- 📝 **[my-Claude-code](https://github.com/wenzhuo4657/my-Claude-code)**: 1 次提交
+- 🚀 **[Record](https://github.com/wenzhuo4657/Record)**: 6 次提交
+- ✨ **[FluxFlow-Front](https://github.com/wenzhuo4657/FluxFlow-Front)**: 2 次提交
 
 
-*最后更新: 2025-12-17 08:26:19*
+*最后更新: 2025-12-18 08:23:39*
