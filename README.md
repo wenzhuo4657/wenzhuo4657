@@ -5,12 +5,11 @@
 
 ## 📊 最近活动
 
-📈 **今日统计**: 78 个仓库，2 个活跃，共 5 次提交
+📈 **今日统计**: 77 个仓库，1 个活跃，共 2 次提交
 
 ### 🔥 今日活跃仓库
 
-- ✨ **[Record](https://github.com/wenzhuo4657/Record)**: 3 次提交
-- ✨ **[my_idea](https://github.com/wenzhuo4657/my_idea)**: 2 次提交
+- ✨ **[FluxFlow](https://github.com/wenzhuo4657/FluxFlow)**: 2 次提交
 
 
-*最后更新: 2026-02-09 08:35:09*
+*最后更新: 2026-02-10 08:39:57*
